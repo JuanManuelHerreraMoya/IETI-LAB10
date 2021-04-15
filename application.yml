@@ -1,4 +1,4 @@
 spring:
   data:
     mongodb:
-      uri: mongodb+srv://<username>:<password>@ieti-dzkk5.mongodb.net/test?retryWrites=true&w=majority
+      uri: mongodb+srv://admin:admin@ieti.frwss.mongodb.net/IETI?retryWrites=true&w=majority
